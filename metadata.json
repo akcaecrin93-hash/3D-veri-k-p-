@@ -1,0 +1,5 @@
+{
+  "name": "3D Holographic Data Cube",
+  "description": "A futuristic 3D OLAP cube visualization for multidimensional data analysis, featuring Time, Geography, and Category dimensions with interactive holographic UI.",
+  "requestFramePermissions": []
+}
